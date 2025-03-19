@@ -4,13 +4,13 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- Set up Microsoft Sentinel by creating a Log Analytics workspace and configuring data retention.*
+*•	Set up Microsoft Sentinel by creating a Log Analytics workspace and configuring data retention.*
 
-*- Connect security data sources, including Microsoft Defender for Cloud and Windows Event Logs.*
+*•	Connect security data sources, including Microsoft Defender for Cloud and Windows Event Logs.*
 
-*- Automate threat detection using scheduled queries and ASIM parsers.*
+*•	Automate threat detection using scheduled queries and ASIM parsers.*
 
-*- Visualize security data with Sentinel workbooks and perform threat hunting using MITRE ATT&CK mapping.*
+*•	Visualize security data with Sentinel workbooks and perform threat hunting using MITRE ATT&CK mapping.*
 
 #### Tasks:
  1. Initialize Log Analytics for Security Data Collection.
